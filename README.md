@@ -1,4 +1,4 @@
-![INKspirationInn]()
+![INKspirationInn](./public/assets/images/Screenshot%202023-07-24%20at%206.19.39%20PM.png)
 
 # ✨INKspirationInn✨
 
